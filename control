@@ -1,0 +1,9 @@
+Package: com.dd.wcdd
+Name: DD折腾
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: 折腾
+Maintainer: DD
+Author: DD
+Section: Tweaks
+Depends: mobilesubstrate
